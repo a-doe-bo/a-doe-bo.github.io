@@ -1,3 +1,4 @@
 # Build Settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
+
