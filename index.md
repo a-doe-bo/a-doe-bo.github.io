@@ -15,7 +15,7 @@
       Magnus Farstad
   </li>
     <li>
-      Gavin Peng
+      Kobey Arai
   </li>
     <li>
       Josh Constantino
