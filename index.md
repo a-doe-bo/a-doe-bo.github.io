@@ -38,4 +38,4 @@
 </ul>
 
 ## Contract:
-Our team contract can be found [here]([https://docs.google.com/document/d/1LmFmwsgEDfUC2oPU8WfnxhdM-HfBvE7AS4HScb7kDkc/edit?usp=sharing](https://docs.google.com/document/d/1WZUedogeZwPC_EHtHiSMUr5U7Lusnx3uHm7uGawnPG8/edit?usp=sharing)).
+Our team contract can be found [here](https://docs.google.com/document/d/1WZUedogeZwPC_EHtHiSMUr5U7Lusnx3uHm7uGawnPG8/edit?usp=sharing).
