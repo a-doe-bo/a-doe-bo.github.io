@@ -1,4 +1,4 @@
-# ICS414 F22 Team 1 "aDOEbo"
+# ICS414 F22 Team 1 "a-doe-bo"
 
 ## Table of Contents
 
