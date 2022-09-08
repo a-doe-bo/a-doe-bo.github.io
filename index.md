@@ -58,6 +58,7 @@ The user has profile that contains their profile picture as well as details of t
 
 ### Email
 The user will receive emails in regards to their bills of interest containing any hearings and differences that were created
+![](doc/email_mock.png)
 
 ### Discussion Thread Page
 Users will be able to participate and communicate with other users with a discussion thread
