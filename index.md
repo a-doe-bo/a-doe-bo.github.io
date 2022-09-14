@@ -9,36 +9,15 @@
 ## Team Members:
 
 <ul>
-  <li>
-      Gavin Peng
-  </li>
-    <li>
-      Magnus Farstad
-  </li>
-    <li>
-      Kobey Arai
-  </li>
-    <li>
-      Josh Constantino
-  </li>
-    <li>
-      Jackie Wu
-  </li>
-    <li>
-      Michelle Leano
-  </li>
-    <li>
-      Adrian Tam
-  </li>
-    <li>
-      Thane Luna
-  </li>
-      <li>
-      Cole House
-  </li>
-    <li>
-      Li Liang
-  </li>
+  <li>Gavin Peng</li>
+  <li>Magnus Farstad</li>
+  <li>Kobey Arai</li>
+  <li>Josh Constantino</li>
+  <li>Jackie Wu</li>
+  <li>Adrian Tam</li>
+  <li>Thane Luna</li>
+  <li>Cole House</li>
+  <li>Li Liang</li>
 </ul>
 
 ## User Guide
@@ -53,7 +32,7 @@ When viewing a bill, the user will see the details of the bill.
 ![](doc/billdetails_mock.png)
 
 ### Profile Page
-The user has profile that contains their profile picture as well as details of themselves.
+The profile page contains the user's information. This includes their email, name, and role.
 ![](doc/profilepage_mock.png)
 
 ### Email
