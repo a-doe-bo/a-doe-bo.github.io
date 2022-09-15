@@ -27,9 +27,13 @@ The following is a walkthrough of the application.
 Upon log in, the user is taken to the home page of the application.
 ![](doc/landing-page.png)
 
+### List Bills Page
+The List Bills Page allows the user to see upcoming bills, previous bills, as well as bills that have not passed. At first glance, the bills will include the bill number, name, status, and hearing date. There is also a hyperlink that will show the user the details of the bill. The bills also include a dropdown table that displays the hearing location, introduction date, and the committee
+![](doc/list-bills-page.png)
+
 ### Bill Details Page
-When viewing a bill, the user will see the details of the bill.
-![](doc/billdetails_mock.png)
+When viewing a bill, the user will see the details of the bill in depth. 
+![](doc/bill-details-page.png)
 
 ### Profile Page
 The profile page contains the user's information. This includes their email, name, and role.
@@ -45,11 +49,11 @@ Users will be able to participate and communicate with other users with a discus
 
 ### Signup Page
 First time users will be able to sign up and create their own accounts
-![](doc/signup_mock.png)
+![](doc/signup-page.png)
 
 ### Signin Page
 Returning users will log in through the sign in page using their authorized credentials
-![](doc/signin_mock.png)
+![](doc/signin-page.png)
 
 ### Saved Bills (Secretary)
 Secretaries will be able to save the bills that is of their interest
