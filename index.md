@@ -23,9 +23,9 @@
 ## User Guide
 The following is a walkthrough of the application.
 
-### Home Page
+### Landing Page
 Upon log in, the user is taken to the home page of the application.
-![](doc/homepage_mock.png)
+![](doc/landing-page.png)
 
 ### Bill Details Page
 When viewing a bill, the user will see the details of the bill.
