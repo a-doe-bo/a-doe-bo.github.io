@@ -1,5 +1,7 @@
 # ICS414 F22 Team 1 "a-doe-bo"
 
+[![hi-doe-bill-tracker](https://github.com/a-doe-bo/hi-doe-bill-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/a-doe-bo/hi-doe-bill-tracker/actions/workflows/ci.yml)
+
 ## Table of Contents
 
 * [Team Members](#team-members)
